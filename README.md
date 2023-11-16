@@ -1,2 +1,2 @@
 # E7M2NU3L.github.io
-this is a website folder created for IOT Application
+This is basically my portfolio website that will eb made with MERN stack
